@@ -139,7 +139,7 @@
 					href="/Aboard/list${pc.makeSearchURL(pageNum) }&searchType=${pc.searchType}&keyword=${pc.keyword}">${pageNum }</a>
 				</li>
 			</c:if>
-			<!—- 요청페이지와 현재페이지가 같으면 강조표시 -—>
+			
 		</c:forEach>
 
 

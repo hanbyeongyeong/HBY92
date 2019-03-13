@@ -10,17 +10,17 @@ package com.lkh.myapp.util;
 
 public class PageCriteria {
 	
-	private int pageNumberPerPage;    // 한페이지에 보여줄 페이지수
+	private int pageNumberPerPage;                       // 한페이지에 보여줄 페이지수
 	private int startPage;								 // 한페이지의 시작페이지
-	private int endPage;									 // 한페이지의 종료페이지
+	private int endPage;							     // 한페이지의 종료페이지
 	
-	private int totalRec;									 // 전체 레코드수
+	private int totalRec;							     // 전체 레코드수
 	private int finalEndPage;							 // 최종 페이지
 	
-	private boolean prev;									 // 이전페이지
-	private boolean next;									 // 다음페이지
+	private boolean prev;							     // 이전페이지
+	private boolean next;								 // 다음페이지
 	
-	private RecordCriteria recordCriteria; // 한페이지에 보여줄 레코드수, 요청페이지
+	private RecordCriteria recordCriteria;               // 한페이지에 보여줄 레코드수, 요청페이지
 	
 	private PageCriteria(RecordCriteria recordCriteria) {
 		this.recordCriteria = recordCriteria;
