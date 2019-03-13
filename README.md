@@ -10,3 +10,7 @@
 
 #게시판연습 동영상(Springedu) : https://youtu.be/mftLh7eTREE
 
+![popol3](https://user-images.githubusercontent.com/47437218/54262825-99e61a00-45b2-11e9-9efb-f4f6ae8d38c4.png)
+
+#메신저 동영상(Springedu) : https://www.youtube.com/watch?v=VRmN3Wz94Yo&t=2s
+
